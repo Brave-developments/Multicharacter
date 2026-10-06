@@ -1,3 +1,0 @@
-# Multicharacter
-
-Empty placeholder repository.
